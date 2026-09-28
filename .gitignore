@@ -1,0 +1,11 @@
+# Arduino / PlatformIO
+build/
+.pio/
+.vscode/
+
+# Local secrets
+secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
